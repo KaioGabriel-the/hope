@@ -1,0 +1,34 @@
+[gd_scene load_steps=6 format=3 uid="uid://u4rj3mopnxqj"]
+
+[ext_resource type="Script" path="res://scripts/Madeira2.gd" id="1_tsqdu"]
+[ext_resource type="Resource" uid="uid://e0qsspgn5sik" path="res://inventory/items_inventory/madeira.tres" id="2_pusyl"]
+[ext_resource type="Texture2D" uid="uid://dyj5vsmxerg56" path="res://assets/Objetos/Pad_02_1.png" id="3_fhk0b"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_5jd8s"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_fhk0b")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_vo77o"]
+radius = 6.08276
+
+[node name="Madeira2" type="Area2D"]
+collision_mask = 5
+script = ExtResource("1_tsqdu")
+madeira = ExtResource("2_pusyl")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.00758162, 0.01)
+sprite_frames = SubResource("SpriteFrames_5jd8s")
+autoplay = "default"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_vo77o")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

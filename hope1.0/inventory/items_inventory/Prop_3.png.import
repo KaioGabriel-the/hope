@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bvij6ixpga0et"
-path="res://.godot/imported/postapocalypse2.png-f8789c1fd6dc330fa8e0258d180f9a12.ctex"
+uid="uid://b5143k4pqd3av"
+path="res://.godot/imported/Prop_3.png-265abb011978d594329a0121e57ebbc0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tela_inicio/imagem/postapocalypse2.png"
-dest_files=["res://.godot/imported/postapocalypse2.png-f8789c1fd6dc330fa8e0258d180f9a12.ctex"]
+source_file="res://inventory/items_inventory/Prop_3.png"
+dest_files=["res://.godot/imported/Prop_3.png-265abb011978d594329a0121e57ebbc0.ctex"]
 
 [params]
 

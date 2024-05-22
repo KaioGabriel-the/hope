@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cx6nh5mvbh22s"
-path="res://.godot/imported/madeira_hd.png-d9d5d45c4c33dff4590137285d22fb11.ctex"
+uid="uid://dyj5vsmxerg56"
+path="res://.godot/imported/Pad_02_1.png-9ad4ec43e348fb7abec569cacba06e55.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objetos/3 Objects2.0/madeira_hd.png"
-dest_files=["res://.godot/imported/madeira_hd.png-d9d5d45c4c33dff4590137285d22fb11.ctex"]
+source_file="res://assets/Objetos/Pad_02_1.png"
+dest_files=["res://.godot/imported/Pad_02_1.png-9ad4ec43e348fb7abec569cacba06e55.ctex"]
 
 [params]
 
