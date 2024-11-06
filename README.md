@@ -18,5 +18,19 @@ O jogo **HOPE** foi desenvolvido durante uma game jam de uma semana com o tema "
 > * Inimigos: causam dano ao jogador.
 > * Interação com objetos:  objetos com os quais o jogador pode interagir.
 
-> # 💻 [VEJA O PROJETO]()
+> # 💻 [VEJA O PROJETO](https://kaio-gabriel-dev.itch.io/hope)
 > <img src="print jogo hope.png">
+
+> # 🔗 CLONE DO PROJETO
+> ``` bash
+> git clone https://github.com/KaioGabriel-the/hope.git
+
+# 📱 CONTATO
+> * **Kaio Gabriel**
+>> [![E-mail](https://img.shields.io/badge/-Email-32CD32?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](kkaiogabrielk@gmail.com)
+>> [![LinkedIn](https://img.shields.io/badge/linkedin-%2332CD32.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho-baa05b313/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+>> [![GitHub](https://img.shields.io/badge/GitHub-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaioGabriel-the)
+> * **Thalysson Delano**
+>> [![E-mail](https://img.shields.io/badge/-Email-32CD32?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](contato.thalyssondel@gmail.com)
+>> [![LinkedIn](https://img.shields.io/badge/linkedin-%2332CD32.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalysson-delano-926459324/)
+>> [![GitHub](https://img.shields.io/badge/GitHub-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thalyssonDEV)
